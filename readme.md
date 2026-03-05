@@ -224,7 +224,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 本项目由以下充满热情的开发者共同参与完成，感谢大家的辛勤付出！✨
 
-<table>
 
   <tr>
 
@@ -241,7 +240,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 ​        <sub><b>Yeyu Yan</b></sub>
 
 ​      </a>
-
 
 ​      <a href="https://superyeyu.github.io/" target="_blank">🌐 Homepage</a>
 
@@ -261,9 +259,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ​      </a>
 
-
 ​      <a href="https://github.com/boshizhu" target="_blank">🌐 Homepage</a>
 
   </tr>
 
-</table>

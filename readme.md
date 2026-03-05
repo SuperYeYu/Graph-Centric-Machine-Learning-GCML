@@ -223,44 +223,29 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 ## 🤝 Contributors
 
 本项目由以下充满热情的开发者共同参与完成，感谢大家的辛勤付出！✨
-<table>
-
+<table style="border-collapse: collapse;">
   <tr>
-
-​    <td align="center" width="150px">
-
-​      <!-- 贡献者 1 -->
-
-​      <a href="https://github.com/SuperYeYu.png" target="_blank">
-
-​        <img src="https://github.com/SuperYeYu.png" width="200px;" style="border-radius:50%;" alt="张三的头像"/>
-
-​        <br />
-
-​        <sub><b>Yeyu Yan</b></sub>
-
-​      </a>
-
-​      <a href="https://superyeyu.github.io/" target="_blank">🌐 Homepage</a>
-
-​    </td>
-
-​    <td align="center" width="150px">
-
-​      <!-- 贡献者 2 -->
-
-​      <a href="https://github.com/boshizhu.png" target="_blank">
-
-​        <img src="https://github.com/boshizhu.png" width="200px;" style="border-radius:50%;" alt="李四的头像"/>
-
-​        <br />
-
-​        <sub><b>Xiangkai Zhu</b></sub>
-
-​      </a>
-
-​      <a href="https://github.com/boshizhu" target="_blank">🌐 Homepage</a>
-
+    <td align="center" valign="top" width="160px" style="border: none;">
+      <a href="https://github.com/SuperYeYu" target="_blank">
+        <img src="https://github.com/SuperYeYu.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Yeyu Yan"/>
+        <br />
+        <b>Yeyu Yan</b>
+      </a>
+      <br />
+      <a href="https://superyeyu.github.io/" target="_blank">
+        <small>🌐 Homepage</small>
+      </a>
+    </td>
+    <td align="center" valign="top" width="160px" style="border: none;">
+      <a href="https://github.com/boshizhu" target="_blank">
+        <img src="https://github.com/boshizhu.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Xiangkai Zhu"/>
+        <br />
+        <b>Xiangkai Zhu</b>
+      </a>
+      <br />
+      <a href="https://github.com/boshizhu" target="_blank">
+        <small>🌐 Homepage</small>
+      </a>
+    </td>
   </tr>
-
 </table>

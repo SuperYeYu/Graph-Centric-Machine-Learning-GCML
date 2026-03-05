@@ -232,9 +232,9 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ​      <!-- 贡献者 1 -->
 
-​      <a href="https://github.com/account" target="_blank">
+​      <a href="https://github.com/SuperYeYu.png" target="_blank">
 
-​        <img src="https://github.com/account" width="100px;" style="border-radius:50%;" alt="张三的头像"/>
+​        <img src="https://github.com/SuperYeYu.png" width="100px;" style="border-radius:50%;" alt="张三的头像"/>
 
 ​        <br />
 
@@ -242,11 +242,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ​      </a>
 
-​      <br />
-
-​      <i>Contribut</i>
-
-​      <br />
 
 ​      <a href="https://superyeyu.github.io/" target="_blank">🌐 Homepage</a>
 
@@ -266,11 +261,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ​      </a>
 
-​      <br />
-
-​      <i>UI 设计 / 前端实现</i>
-
-​      <br />
 
 ​      <a href="https://github.com/boshizhu" target="_blank">🌐 Homepage</a>
 

@@ -223,7 +223,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 ## 🤝 Contributors
 
 本项目由以下充满热情的开发者共同参与完成，感谢大家的辛勤付出！✨
-
+<table>
 
   <tr>
 
@@ -263,3 +263,4 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
   </tr>
 
+</table>

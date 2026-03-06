@@ -2,7 +2,7 @@
 
 
 
-![image-20260306222323495](C:\Users\13106\AppData\Roaming\Typora\typora-user-images\image-20260306222323495.png)
+![image-20260306222323495](./image/gcml.png)
 
 
 

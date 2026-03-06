@@ -414,6 +414,17 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
         <small>🌐 Homepage</small>
       </a>
     </td>
+    <td align="center" valign="top" width="160px" style="border: none;">
+      <a href="https://github.com/SsGood" target="_blank">
+        <img src="https://github.com/SsGood.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Xiangkai Zhu"/>
+        <br />
+        <b>Shuai Zheng</b>
+      </a>
+      <br />
+      <a href="https://scholar.google.com/citations?user=8UFwA_0AAAAJ&hl=zh-CN" target="_blank">
+        <small>🌐 Homepage</small>
+      </a>
+    </td>
   </tr>
 </table>
 

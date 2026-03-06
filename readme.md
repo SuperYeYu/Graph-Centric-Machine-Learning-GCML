@@ -237,7 +237,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 #### 2.1.3 Graph Generation
 
-- **A Systematic Survey on Generative Models for Graph Generation** [Paper Link](https://www.preprints.org/frontend/manuscript/2371b1d4089f03f490326dbdb91bd7bc/download_pub)https://arxiv.org/pdf/2512.23777)
+- **A Systematic Survey on Generative Models for Graph Generation** [Paper Link](https://www.preprints.org/frontend/manuscript/2371b1d4089f03f490326dbdb91bd7bc/download_pub)
 - **A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications** [Paper Link](https://arxiv.org/pdf/2404.14809)
 
 #### 2.1.4 Graph Transformer
@@ -272,7 +272,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 #### 2.1.9 TTA & OOD
 
 - **Out-of-Distribution Detection on Graphs: A Survey** [Paper Link](https://arxiv.org/pdf/2502.08105)
-- **A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges** [Paper Link](https://arxiv.org/pdf/2403.04468)https://arxiv.org/pdf/2403.19852)
+- **A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges** [Paper Link](https://arxiv.org/pdf/2403.04468)
 - **Out-of-Distribution Generalization in Graph Foundation Models** [Paper Link](https://arxiv.org/pdf/2601.21067)
 - **Test-Time Adaptation for Graph Learning: A Systematic Survey** [Paper Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138879.90217571)
 

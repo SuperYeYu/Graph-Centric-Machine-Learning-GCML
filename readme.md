@@ -1,12 +1,22 @@
-
-
 # Graph-Centric Machine Learning (GCML)
 
 
 
+![image-20260306222323495](C:\Users\13106\AppData\Roaming\Typora\typora-user-images\image-20260306222323495.png)
+
+
+
+## 🌟 Overview
+
+This repository is structured around three core components:
+
+- **📂 Graph Datasets:** Providing diverse graph datasets and the extensive array of downstream graph tasks.
+- **📖 Graph Surveys & Reviews:** Offering a systematic overview of the graph machine learning domain to comprehensively explore its foundational concepts and emerging developmental trends.
+- **⚖️ Graph Benchmarks:** Facilitating rapid onboarding into specific sub-fields and enabling rigorous comparative analysis of various models.
+
+
+
 ## 📂 Graph Datasets
-
-
 
 #### 1.1 Classification explanation
 
@@ -206,15 +216,173 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 
 
-## 📖 Surveys of Graph
+## 📖 Graph Surveys & Reviews
+
+### 2.1 Research
+
+#### 2.1.1 Self-Supervised GNN
+
+- **A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective** [Paper Link](https://arxiv.org/pdf/2403.16137)
+- **Towards Graph Contrastive Learning: A Survey and Beyond** [Paper Link](https://arxiv.org/pdf/2405.11868?)
+- **Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2412.05312?)
+
+#### 2.1.2 Graph Foundation Model & Prompting
+
+- **A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective** [Paper Link](https://arxiv.org/pdf/2403.16137)
+- **Graph Foundation Models: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2505.15116)
+- **Graph Foundation Models for Recommendation: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2502.08346)
+- **A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models** [Paper Link](https://arxiv.org/pdf/2509.06609)
+- **Out-of-Distribution Generalization in Graph Foundation Models** [Paper Link](https://arxiv.org/pdf/2601.21067)
+- **Graph Prompting for Graph Learning Models: Recent Advances and Future Directions** [Paper Link](https://arxiv.org/pdf/2506.08326)
+
+#### 2.1.3 Graph Generation
+
+- **A Systematic Survey on Generative Models for Graph Generation** [Paper Link](https://www.preprints.org/frontend/manuscript/2371b1d4089f03f490326dbdb91bd7bc/download_pub)https://arxiv.org/pdf/2512.23777)
+- **A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications** [Paper Link](https://arxiv.org/pdf/2404.14809)
+
+#### 2.1.4 Graph Transformer
+
+- **Graph Transformers: A Survey** [Paper Link](https://arxiv.org/pdf/2407.09777?)
+- **A Survey of Graph Transformers: Architectures, Theories and Applications** [Paper Link](https://arxiv.org/pdf/2502.16533?)
+
+#### 2.1.5 Imbalance/Incomplete Graph
+
+- **Incomplete Graph Learning: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2502.12412)
+- **A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges** [Paper Link](https://arxiv.org/pdf/2403.04468)
+
+#### 2.1.6 Reduction
+
+- **A Comprehensive Survey on Graph Reduction: Sparsification, Coarsening, and Condensation** [Paper Link](https://arxiv.org/pdf/2402.03358)
+- **A Survey on Graph Condensation** [Paper Link](https://arxiv.org/pdf/2402.02000)
+- **Graph Condensation: A Survey** [Paper Link](https://arxiv.org/pdf/2401.11720)
+- **Learning to Reduce the Scale of Large Graphs: A Comprehensive Survey** [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3729427)
+- **Finding the Cores of Higher Graphs Using Geometric and Topological Means: A Survey** [Paper Link](https://arxiv.org/pdf/2506.19857)
+
+#### 2.1.7 Temporal, Dynamic & Continual 
+
+- **Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances** [Paper Link](https://www.publications.scrs.in/uploads/final_menuscript/822ab703ff97f28905558d3502c7974b.pdf) 
+- **Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2503.24259?)  
+- **A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities** [Paper Link](https://arxiv.org/pdf/2505.04461?)
+- **Review on Development of Spatio-Temporal Graph Neural Networks for Traffic Flow Prediction** [Paper Link](https://arxiv.org/pdf/2307.00495)
+
+#### 2.1.8 Fairness
+
+- **Fairness in Graph Learning Augmented with Machine Learning: A Survey** [Paper Link](https://arxiv.org/pdf/2504.21296?) 
+
+#### 2.1.9 TTA & OOD
+
+- **Out-of-Distribution Detection on Graphs: A Survey** [Paper Link](https://arxiv.org/pdf/2502.08105)
+- **A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges** [Paper Link](https://arxiv.org/pdf/2403.04468)https://arxiv.org/pdf/2403.19852)
+- **Out-of-Distribution Generalization in Graph Foundation Models** [Paper Link](https://arxiv.org/pdf/2601.21067)
+- **Test-Time Adaptation for Graph Learning: A Systematic Survey** [Paper Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.177138879.90217571)
+
+#### 2.1.10 Complex Network
+
+- **The Heterophilic Graph Learning Handbook: Benchmarks, Models, Theoretical Analysis, Applications and Challenges** [Paper Link](https://arxiv.org/pdf/2407.09618)
+- **A Survey on Centrality and Importance Measures in Hypergraphs: Categorization and Empirical Insights** [Paper Link](https://arxiv.org/pdf/2512.00107)
+- **A Survey of Geometric Graph Neural Networks: Data Structures, Models and Applications** [Paper Link](https://arxiv.org/pdf/2403.00485)
+- **Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection** [Paper Link](https://arxiv.org/pdf/2512.18826)
+- **Pattern-Based Graph Classification: Comparison of Quality Measures and Importance of Preprocessing**
+
+#### 2.1.11 Structure & Topology 
+
+- **A Comprehensive Survey on Spectral Clustering with Graph Structure Learning** [Paper Link](https://arxiv.org/pdf/2501.13597)
+- **Topology Identification and Inference over Graphs** [Paper Link](https://arxiv.org/pdf/2512.10183)
+- **A Topical Review of Graph Embedding in Graph Neural Networks** [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11299063)
+- **Graph Neural Network based on Graph Kernel: A Survey** [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010586) 
+- **Pattern-Based Graph Classification: Comparison of Quality Measures and Importance of Preprocessing** [Paper Link](https://arxiv.org/pdf/2507.00039)
+
+#### 2.1.12 Theory & Insight
+
+- **Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2503.23167)
+- **Efficient Algorithms for Personalized PageRank Computation: A Survey** [Paper Link](https://arxiv.org/pdf/2403.05198)
+- **Graph Learning: A Survey** [Paper Link](https://arxiv.org/pdf/2507.05636)
+- **Survey on Generalization Theory for Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2503.15650?)
+
+### 2.2 Application
+
+#### 2.2.1 Healthcare & Bioinformatics
+
+- **A Review of Graph Neural Networks in Epidemic Modeling** [Paper Link](https://arxiv.org/pdf/2403.19852)
+- **A Survey of Graph Neural Networks for Drug Discovery: Recent Developments and Challenges** [Paper Link](https://arxiv.org/pdf/2509.07887)
+- **Graph Learning in Bioinformatics: A Survey of Graph Neural Network Architectures, Biological Graph Construction and Bioinformatics Applications** [Paper Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC12938586/)
+- **Graph Neural Networks in Modern AI-aided Drug Discovery** [Paper Link](https://arxiv.org/pdf/2506.06915?)
+- **Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey** [Paper Link](https://arxiv.org/pdf/2506.17234)
+- **Graph Neural Networks for Source Detection: A Review and Benchmark Study** [Paper Link](https://arxiv.org/pdf/2512.20657)
+- **Interpretable graph-based models on multimodal biomedical data integration: A technical review and benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
+- **Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey** [Paper Link](https://arxiv.org/pdf/2502.09781)
+- **Recent Developments in GNNs for Drug Discovery** [Paper Link](https://arxiv.org/pdf/2506.01302)
+- **Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2412.05312?)
+
+#### 2.2.2 Anomaly Detection
+
+- **A Survey on Graph Neural Networks for Fraud Detection in Ride Hailing Platforms** [Paper Link](https://arxiv.org/pdf/2512.23777)
+- **Graph-based Fake Account Detection: A Survey** [Paper Link](https://arxiv.org/pdf/2507.06541?)
+- **Recent Advances in Malware Detection: Graph Learning and Explainability** [Paper Link](https://arxiv.org/pdf/2502.10556?)
+- **A Survey of Generalization of Graph Anomaly Detection: From Transfer Learning to Foundation Models** [Paper Link](https://arxiv.org/pdf/2509.06609)
+- **A Survey of Heterogeneous Graph Neural Networks for Cybersecurity Anomaly Detection** [Paper Link](https://arxiv.org/pdf/2510.26307)
+- **Advances in Continual Graph Learning for Anti-Money Laundering Systems: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2503.24259?)  
+- **Hyperbolic Graph Embeddings: a Survey and an Evaluation on Anomaly Detection** [Paper Link](https://arxiv.org/pdf/2512.18826)
+
+#### 2.2.3 Agent & RAG
+
+- **Graph-based Agent Memory: Taxonomy, Techniques, and Applications** [Paper Link](https://arxiv.org/pdf/2602.05665)
+- **Graph-based Approaches and Functionalities in Retrieval-Augmented Generation: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2504.10499)
+- **Graph-Based Re-ranking: Emerging Techniques, Limitations, and Opportunities** [Paper Link](https://arxiv.org/pdf/2503.14802)
+- **Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities** [Paper Link](https://arxiv.org/pdf/2506.18019)
+- **Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings** [Paper Link](https://arxiv.org/pdf/2511.10501v3)
+- **Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions** [Paper Link](https://arxiv.org/pdf/2404.04898)
+
+#### 2.2.4 Recommendation
+
+- **Graph Foundation Models for Recommendation: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2502.08346)
+- **Graph Neural Networks for Collaborative Filtering: A Survey on Ranking Prediction** [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11359174)
+- **Multi-Behavior Recommender Systems: A Survey** [Paper Link](https://arxiv.org/pdf/2503.06963?)
+
+#### 2.2.5 Federated & Cross-Domain
+
+- **A Comprehensive Data-centric Overview of Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2507.16541?)
+- **A Survey of Cross-domain Graph Learning: Progress and Future Directions** [Paper Link](https://arxiv.org/pdf/2503.11086)
+
+#### 2.2.6 Transportation
+
+- **Data Mining in Transportation Networks with Graph Neural Networks: A Review and Outlook** [Paper Link](https://arxiv.org/pdf/2501.16656) 
+- **Graph Neural Networks for Vehicular Social Networks: Trends, Challenges, and Opportunities** [Paper Link](https://arxiv.org/pdf/2511.14720)
+- **Review on Development of Spatio-Temporal Graph Neural Networks for Traffic Flow Prediction** [Paper Link](https://arxiv.org/pdf/2307.00495)
+
+#### 2.2.7 NLP & LLM
+
+- **A Survey of Large Language Models for Data Challenges in Graphs** [Paper Link](https://arxiv.org/pdf/2505.18475)
+- **A Survey of Large Language Models on Generative Graph Analytics: Query, Learning, and Applications** [Paper Link](https://arxiv.org/pdf/2404.14809)
+- **A Survey of Quantized Graph Representation Learning: Connecting Graph Structures with Large Language Models** [Paper Link](https://arxiv.org/pdf/2502.00681)
+- **Large Language Models Meet Text-Attributed Graphs: A Survey of Integration Frameworks and Applications** [Paper Link](https://arxiv.org/pdf/2510.21131)
+- **Trustworthy GNNs with LLMs: A Systematic Review and Taxonomy** [Paper Link](https://arxiv.org/pdf/2502.08353?)
+- **Graph2text or Graph2token: A Perspective of Large Language Models for Graph Learning** [Paper Link](https://arxiv.org/pdf/2501.01124)
+- **A Systematic Survey on Generative Models for Graph Generation** [Paper Link](https://www.preprints.org/frontend/manuscript/2371b1d4089f03f490326dbdb91bd7bc/download_pub)
+- **Exploring Graph-Based Techniques in Text Data Processing: A Comprehensive Survey of NLP Advancements** [Paper Link](https://www.icck.org/filebob/uploads/storage/TETAI_L7uaFiARV760LTrDA.pdf)
+- **Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances** [Paper Link](https://www.publications.scrs.in/uploads/final_menuscript/822ab703ff97f28905558d3502c7974b.pdf) 
+- **Graph4LLM:A Systematic Survey of Graph-Enhanced Large Language Models** [Paper Link](http://shichuan.org/doc/215.pdf)
+- **Graphs for LLMs: A Survey of Graph-Assisted Large Language Models** [Paper Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/308271/preprint_pdf/8467d8fa2a52e780399614ed3a356245.pdf)
+
+#### 2.2.8 Databases & Tabular
+
+- **Graph Neural Networks for Databases: A Survey** [Paper Link](https://arxiv.org/pdf/2502.12908)
+- **Relational Deep Learning: Challenges, Foundations and Next-Generation Architectures** [Paper Link](https://arxiv.org/pdf/2506.16654)
+- **Graph Neural Networks for Tabular Data Learning: A Survey with Taxonomy & Directions** [Paper Link](https://arxiv.org/pdf/2401.02143)
+
+#### 2.2.9 Alloy Design
+
+- **Advances in Graph Neural Networks for Alloy Design and Properties Predictions: A Review** [Paper Link](https://www.oaepublish.com/articles/jmi.2025.42?to=comment)
+
+
+
+## ⚖️ Graph Benchmarks
 
 
 
 
 
 
-
-## 📉 Benchmarks of Graph
 
 
 
@@ -222,7 +390,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ## 🤝 Contributors
 
-本项目由以下充满热情的开发者共同参与完成，感谢大家的辛勤付出！✨
 <table style="border-collapse: collapse;">
   <tr>
     <td align="center" valign="top" width="160px" style="border: none;">
@@ -249,3 +416,5 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
     </td>
   </tr>
 </table>
+
+**📌 Important Note:** As this initiative commenced in mid-2024, our curation intentionally excludes older literature to prioritize recent, state-of-the-art advancements. Additionally, this repository features dedicated sections for **💡 Graph Insights** and **📈 Graph Evaluation Metrics**, which will be subject to continuous updates in future releases.

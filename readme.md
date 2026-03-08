@@ -20,25 +20,28 @@ This repository is structured around three core components:
 <summary><b>📂 Graph Datasets</b></summary>
 
 * [1.1 Classification explanation](#11-classification-explanation)
-    * [1.2 Paper List](#12-paper-list)
+* [1.2 Paper List](#12-paper-list)
 
 </details>
 
-* [📖 Graph Surveys & Reviews](#-graph-surveys--reviews)
-    * [2.1 Research](#21-research)
-        * [2.1.1 Self-Supervised GNN](#211-self-supervised-gnn)
-        * [2.1.2 Graph Foundation Model & Prompting](#212-graph-foundation-model--prompting)
-        * [2.1.3 Graph Generation](#213-graph-generation)
-        * [2.1.4 Graph Transformer](#214-graph-transformer)
-        * [2.1.5 Imbalance/Incomplete Graph](#215-imbalanceincomplete-graph)
-        * [2.1.6 Reduction](#216-reduction)
-        * [2.1.7 Temporal, Dynamic & Continual](#217-temporal-dynamic--continual)
-        * [2.1.8 Fairness & Private](#218-fairness--private)
-        * [2.1.9 TTA & OOD](#219-tta--ood)
-        * [2.1.10 Complex Network](#2110-complex-network)
-        * [2.1.11 Structure & Topology](#2111-structure--topology)
-        * [2.1.12 Theory & Insight](#2112-theory--insight)
-    * [2.2 Application](#22-application)
+<details open>
+
+<summary><b>[📖 Graph Surveys & Reviews](#-graph-surveys--reviews)</b></summary>
+
+* [2.1 Research](#21-research)
+  * [2.1.1 Self-Supervised GNN](#211-self-supervised-gnn)
+  * [2.1.2 Graph Foundation Model & Prompting](#212-graph-foundation-model--prompting)
+  * [2.1.3 Graph Generation](#213-graph-generation)
+  * [2.1.4 Graph Transformer](#214-graph-transformer)
+  * [2.1.5 Imbalance/Incomplete Graph](#215-imbalanceincomplete-graph)
+  * [2.1.6 Reduction](#216-reduction)
+  * [2.1.7 Temporal, Dynamic & Continual](#217-temporal-dynamic--continual)
+  * [2.1.8 Fairness & Private](#218-fairness--private)
+  * [2.1.9 TTA & OOD](#219-tta--ood)
+  * [2.1.10 Complex Network](#2110-complex-network)
+  * [2.1.11 Structure & Topology](#2111-structure--topology)
+  * [2.1.12 Theory & Insight](#2112-theory--insight)
+* [2.2 Application](#22-application)
         * [2.2.1 Healthcare & Bioinformatics](#221-healthcare--bioinformatics)
         * [2.2.2 Anomaly Detection](#222-anomaly-detection)
         * [2.2.3 Agent & RAG](#223-agent--rag)
@@ -48,6 +51,9 @@ This repository is structured around three core components:
         * [2.2.7 NLP & LLM](#227-nlp--llm)
         * [2.2.8 Databases & Tabular](#228-databases--tabular)
         * [2.2.9 Alloy Design](#229-alloy-design)
+
+</details>
+
 * [⚖️ Graph Benchmarks](#%EF%B8%8F-graph-benchmarks)
     * [3.1 Research](#31-research)
         * [3.1.1 Self-supervised](#311-self-supervised)

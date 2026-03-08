@@ -4,7 +4,11 @@
 
 ![image-20260306222323495](./image/gcml.png)
 
+## 目录
 
+* [⚖️ Graph Benchmarks](#graph-benchmarks)
+* [3.1 Research](#research)
+* [3.1.1 Self-supervised](#311-self-supervised)
 
 ## 🌟 Overview
 
@@ -248,6 +252,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 #### 2.1.5 Imbalance/Incomplete Graph
 
 - **Incomplete Graph Learning: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2502.12412)
+- **Imbalanced Node Classification on Graphs with Graph Neural Networks: A Survey** [Paper Link](https://www.aimspress.com/aimspress-data/era/2026/3/PDF/era-34-03-079.pdf)
 - **A Survey of Graph Neural Networks in Real world: Imbalance, Noise, Privacy and OOD Challenges** [Paper Link](https://arxiv.org/pdf/2403.04468)
 
 #### 2.1.6 Reduction
@@ -265,9 +270,10 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **A Survey on Temporal Interaction Graph Representation Learning: Progress, Challenges, and Opportunities** [Paper Link](https://arxiv.org/pdf/2505.04461?)
 - **Review on Development of Spatio-Temporal Graph Neural Networks for Traffic Flow Prediction** [Paper Link](https://arxiv.org/pdf/2307.00495)
 
-#### 2.1.8 Fairness
+#### 2.1.8 Fairness & Private
 
 - **Fairness in Graph Learning Augmented with Machine Learning: A Survey** [Paper Link](https://arxiv.org/pdf/2504.21296?) 
+- **Differentially Private Graph Learning: A Survey**
 
 #### 2.1.9 TTA & OOD
 
@@ -378,11 +384,150 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 ## ⚖️ Graph Benchmarks
 
+### 3.1 Research
 
+#### 3.1.1 Self-supervised
 
+- **Revisiting, Benchmarking and Understanding Unsupervised Graph Domain Adaptation** [Paper Link](https://arxiv.org/pdf/2407.11052)
+- **Unifying Unsupervised Graph-Level Anomaly Detection and Out-of-Distribution Detection: A Benchmark** [Paper Link](https://arxiv.org/pdf/2406.15523)
+- **DGCBench: A Deep Graph Clustering Benchmark** [Paper Link](https://openreview.net/pdf?id=dKVUUZfcW9)
+- **GSTBench: A Benchmark Study on the Transferability of Graph Self-Supervised Learning** [Paper Link](https://arxiv.org/pdf/2509.06975)
+- **PyG-SSL: A Graph Self-Supervised Learning Toolkit** [Paper Link](https://arxiv.org/pdf/2412.21151)
 
+#### 3.1.2 Alignment
 
+- **Graph Alignment for Benchmarking Graph Neural Networks and Learning Positional Encodings** [Paper Link](https://arxiv.org/pdf/2505.13087)
+- **LongT2IBench: A Benchmark for Evaluating Long Text-to-Image Generation with Graph-structured Annotations** [Paper Link](https://arxiv.org/pdf/2512.09271)
 
+#### 3.1.3 Multimodal
+
+- **Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning** [Paper Link](https://arxiv.org/pdf/2506.10282?)
+- **LongT2IBench: A Benchmark for Evaluating Long Text-to-Image Generation with Graph-structured Annotations** [Paper Link](https://arxiv.org/pdf/2512.09271)
+- **MM-OpenFGL: A Comprehensive Benchmark for Multimodal Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2601.22416)
+- **OpenMAG: A Comprehensive Benchmark for Multimodal-Attributed Graph** [Paper Link](https://arxiv.org/pdf/2602.05576)
+- **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
+- **Interpretable Graph-based Models on Multimodal Biomedical Data Integration: A Technical Review and Benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
+- **Benchmarking Graph Neural Networks for Document Layout Analysis in Public Affairs** [Paper Link](https://arxiv.org/pdf/2505.14699)
+
+#### 3.1.4 LLM
+
+- **Graph-MLLM: Harnessing Multimodal Large Language Models for Multimodal Graph Learning** [Paper Link](https://arxiv.org/pdf/2506.10282?)
+- **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks** [Paper Link](https://arxiv.org/pdf/2506.11844)
+- **When Do LLMs Help With Node Classification? A Comprehensive Analysis** [Paper Link](https://arxiv.org/pdf/2502.00829)
+- **Exploring Graph Learning Tasks with Pure LLMs: A Comprehensive Benchmark and Investigation** [Paper Link](https://arxiv.org/pdf/2502.18771)
+- **GRAPHOMNI: A Comprehensive and Extensible Benchmark Framework for Large Language Models on Graph-theoretic Tasks** [Paper Link](https://arxiv.org/pdf/2504.12764)
+- **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health** [Paper Link](https://arxiv.org/pdf/2601.18106)
+- **ZOGRASCOPE: A New Benchmark for Semantic Parsing over Property Graphs** [Paper Link](https://arxiv.org/pdf/2503.05268)
+- **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
+
+#### 3.1.5 Graph Foundation Model & Prompt
+
+- **RoFt-Mol: Benchmarking Robust Fine-Tuning with Molecular Graph Foundation Models** [Paper Link](https://arxiv.org/pdf/2509.00614)
+- **Text-space Graph Foundation Models: Comprehensive Benchmarks and New Insights** [Paper Link](https://arxiv.org/pdf/2406.10727)
+- **ProG: A Graph Prompt Learning Benchmark** [Paper Link](https://arxiv.org/pdf/2406.05346)
+
+#### 3.1.6 Temporal, Dynamic & Continual 
+
+- **TGM: a Modular and Efficient Library for Machine Learning on Temporal Graphs** [Paper Link](https://arxiv.org/pdf/2510.07586)
+- **T-GRAB: A Synthetic Diagnostic Benchmark for Learning on Temporal Graphs** [Paper Link](https://arxiv.org/pdf/2507.10183)
+- **FOS: ALarge-Scale Temporal Graph Benchmark for Scientific Interdisciplinary Link Prediction** [Paper Link](https://arxiv.org/pdf/2511.18631)
+- **TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics** [Paper Link](https://arxiv.org/pdf/2502.02975)
+- **Deep Temporal Graph Clustering: A Comprehensive Benchmark and Datasets** [Paper Link](https://arxiv.org/pdf/2601.12903)
+- **Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification** [Paper Link](https://arxiv.org/pdf/2501.08305?)
+- **GDGB: A Benchmark for Genrative Dynamic Text-Attributed Graph Learning** [Paper Link](https://openreview.net/pdf?id=5UFUHUC5qP)
+- **GRAIL: A Benchmark for Graph Active Learning in Dynamic Sensing Environments** [Paper Link](https://arxiv.org/pdf/2506.10120)
+
+#### 3.1.7 Active Learning
+
+- **GRAIL: A Benchmark for Graph Active Learning in Dynamic Sensing Environments** [Paper Link](https://arxiv.org/pdf/2506.10120)
+
+#### 3.1.8 OOD
+
+- **G-OSR: A Comprehensive Benchmark for Graph Open-Set Recognition** [Paper Link](https://arxiv.org/pdf/2503.00476?)
+
+#### 3.1.9 Fairness 
+
+- **Fairness-Aware Graph Learning: A Benchmark** [Paper Link](https://dl.acm.org/doi/10.1145/3711896.3737392)
+- **TopoFair: Linking Topological Bias to Fairness in Link Prediction Benchmarks** [Paper Link](https://arxiv.org/pdf/2602.11802)
+
+#### 3.1.10 Unlearning 
+
+- **OpenGU: A Comprehensive Benchmark for Graph Unlearning** [Paper Link](https://arxiv.org/pdf/2501.02728?)
+
+#### 3.1.11 Spiking GNN
+
+- **SGNNBench: A Holistic Evaluation of Spiking Graph Neural Network on Large-scale Graph** [Paper Link](https://arxiv.org/pdf/2509.21342)
+
+#### 3.1.12 Graph Transformer
+
+- **OpenGT: A Comprehensive Benchmark For Graph Transformers** [Paper Link](https://arxiv.org/pdf/2506.04765?)
+
+#### 3.1.13 Graph Pooling
+
+- **A Comprehensive Graph Pooling Benchmark: Effectiveness, Robustness and Generalizability** [Paper Link](https://arxiv.org/pdf/2406.09031)
+- **Property-Driven Evaluation of GNN Expressiveness at Scale: Datasets, Framework, and Study** [Paper Link](https://arxiv.org/pdf/2603.00044)
+
+#### 3.1.14 Robustness
+
+- **TrustGLM: Evaluating the Robustness of GraphLLMs Against Prompt, Text, and Structure Attacks** [Paper Link](https://arxiv.org/pdf/2506.11844)
+- **Delving into Instance-Dependent Label Noise in Graph Data: A Comprehensive Study and Benchmark** [Paper Link](https://arxiv.org/pdf/2506.12468)
+- **Robustness in Text-Attributed Graph Learning: Insights, Trade-offs, and New Defenses** [Paper Link](https://arxiv.org/pdf/2510.17185)
+- **NoisyGL: A Comprehensive Benchmark for Graph Neural Networks under Label Noise** [Paper Link](https://arxiv.org/pdf/2406.04299)
+- **Intellectual Property in Graph-Based Machine Learning as a Service: Attacks and Defenses** [Paper Link](https://arxiv.org/pdf/2508.19641)
+- **IGL-Bench: Establishing the Comprehensive Benchmark for Imbalanced Graph Learning** [Paper Link](https://arxiv.org/pdf/2406.09870)
+
+#### 3.1.15 Reduction
+
+- **GC-Bench: An Open and Unified Benchmark for Graph Condensation** [Paper Link](https://arxiv.org/pdf/2407.00615)
+- **GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights** [Paper Link](https://arxiv.org/pdf/2406.16715?)
+- **GCondenser: Benchmarking Graph Condensation** [Paper Link](https://arxiv.org/pdf/2405.14246)
+
+#### 3.1.16 Theory & Analytics 
+
+- **Revisiting Graph Analytics Benchmark** [Paper Link](https://arxiv.org/pdf/2506.21811)
+- **A Comprehensive Benchmark on Spectral GNNs: The Impact on Efficiency, Memory, and Effectiveness** [Paper Link](https://arxiv.org/pdf/2406.09675)
+- **ZOGRASCOPE: A New Benchmark for Semantic Parsing over Property Graphs** [Paper Link](https://arxiv.org/pdf/2503.05268)
+- **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
+- **Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems** [Paper Link](https://arxiv.org/pdf/2602.18419)
+- **BEACON: A Benchmark for Efficient and Accurate Counting of Subgraphs** [Paper Link](https://arxiv.org/pdf/2504.10948)
+
+#### 3.1.17 Complex Network
+
+- **DHG-Bench: A Comprehensive Benchmark for Deep Hypergraph Learning** [Paper Link](https://arxiv.org/pdf/2508.12244)
+- **Can You Hear Me Now? A Benchmark for Long-Range Graph Propagation** [Paper Link](https://arxiv.org/pdf/2512.17762)
+- **HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs** [Paper Link](https://arxiv.org/pdf/2503.04822)
+- **CITE: A Comprehensive Benchmark for Heterogeneous Text-Attributed Graphs on Catalytic Materials** [Paper Link](https://arxiv.org/pdf/2508.15392?)
+- **When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark** [Paper Link](https://arxiv.org/pdf/2407.10916)
+
+### 3.2 Application
+
+#### 3.2.1 Health & Biomedical
+
+- **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health** [Paper Link](https://arxiv.org/pdf/2601.18106)
+- **Benchmarking GNN Models on Molecular Regression Tasks with CKA-Based Representation Analysis** [Paper Link](https://arxiv.org/pdf/2602.20573)
+- **Interpretable Graph-based Models on Multimodal Biomedical Data Integration: A Technical Review and Benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
+- **B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data** [Paper Link](https://arxiv.org/pdf/2505.22252)
+- **Opbench: A Graph Benchmark to Combat the Opioid Crisis** [Paper Link](https://arxiv.org/pdf/2602.14602)
+- **GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics** [Paper Link](https://arxiv.org/pdf/2505.10711)
+
+#### 3.2 Federated Learning
+
+- **OpenFGL: A Comprehensive Benchmark for Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2408.16288?)
+- **MM-OpenFGL: A Comprehensive Benchmark for Multimodal Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2601.22416)
+
+#### 3.2 Databases & Datasets
+
+- **GraphBench: Next-Generation Graph Learning Benchmarking** [Paper Link](https://arxiv.org/pdf/2512.04475)
+- **A Benchmark Dataset for Graph Regression with Homogeneous and Multi-Relational Variants** [Paper Link](https://arxiv.org/pdf/2505.23875?)
+- **RDB2G-Bench: A Comprehensive Benchmark for Automatic Graph Modeling of Relational Databases** [Paper Link](https://arxiv.org/pdf/2506.01360)
+
+#### 3.2 Materials
+
+- **CITE: A Comprehensive Benchmark for Heterogeneous Text-Attributed Graphs on Catalytic Materials** [Paper Link](https://arxiv.org/pdf/2508.15392?)
+
+#### 3.2 Coding
+
+- **GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization** [Paper Link](https://arxiv.org/pdf/2602.13921)
 
 
 
@@ -414,18 +559,8 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
         <small>🌐 Homepage</small>
       </a>
     </td>
-    <td align="center" valign="top" width="160px" style="border: none;">
-      <a href="https://github.com/SsGood" target="_blank">
-        <img src="https://github.com/SsGood.png" width="100px" style="border-radius:50%; margin-bottom: 8px;" alt="Xiangkai Zhu"/>
-        <br />
-        <b>Shuai Zheng</b>
-      </a>
-      <br />
-      <a href="https://scholar.google.com/citations?user=8UFwA_0AAAAJ&hl=zh-CN" target="_blank">
-        <small>🌐 Homepage</small>
-      </a>
-    </td>
   </tr>
 </table>
+
 
 **📌 Important Note:** As this initiative commenced in mid-2024, our curation intentionally excludes older literature to prioritize recent, state-of-the-art advancements. Additionally, this repository features dedicated sections for **💡 Graph Insights** and **📈 Graph Evaluation Metrics**, which will be subject to continuous updates in future releases.

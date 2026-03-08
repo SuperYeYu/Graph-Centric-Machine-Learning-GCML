@@ -14,11 +14,16 @@ This repository is structured around three core components:
 - **⚖️ Graph Benchmarks:** Facilitating rapid onboarding into specific sub-fields and enabling rigorous comparative analysis of various models.
 
 ### Contents
+
 <details open>
+
 <summary><b>📂 Graph Datasets</b></summary>
-    * [1.1 Classification explanation](#11-classification-explanation)
+
+* [1.1 Classification explanation](#11-classification-explanation)
     * [1.2 Paper List](#12-paper-list)
+
 </details>
+
 * [📖 Graph Surveys & Reviews](#-graph-surveys--reviews)
     * [2.1 Research](#21-research)
         * [2.1.1 Self-Supervised GNN](#211-self-supervised-gnn)

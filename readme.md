@@ -6,7 +6,7 @@
 
 ## 目录
 
-* [⚖️ Graph Benchmarks](#graph-benchmarks)
+* [⚖️ Graph Benchmarks](#⚖️-graph-benchmarks)
 * [3.1 Research](#31-research)
 * [3.1.1 Self-supervised](#311-self-supervised)
 

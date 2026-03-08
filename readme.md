@@ -26,7 +26,7 @@ This repository is structured around three core components:
 
 <details open>
 
-<summary><b>[📖 Graph Surveys & Reviews](#-graph-surveys--reviews)</b></summary>
+<summary><b>📖 Graph Surveys & Reviews</b></summary>
 
 * [2.1 Research](#21-research)
   * [2.1.1 Self-Supervised GNN](#211-self-supervised-gnn)
@@ -42,43 +42,48 @@ This repository is structured around three core components:
   * [2.1.11 Structure & Topology](#2111-structure--topology)
   * [2.1.12 Theory & Insight](#2112-theory--insight)
 * [2.2 Application](#22-application)
-        * [2.2.1 Healthcare & Bioinformatics](#221-healthcare--bioinformatics)
-        * [2.2.2 Anomaly Detection](#222-anomaly-detection)
-        * [2.2.3 Agent & RAG](#223-agent--rag)
-        * [2.2.4 Recommendation](#224-recommendation)
-        * [2.2.5 Federated & Cross-Domain](#225-federated--cross-domain)
-        * [2.2.6 Transportation](#226-transportation)
-        * [2.2.7 NLP & LLM](#227-nlp--llm)
-        * [2.2.8 Databases & Tabular](#228-databases--tabular)
-        * [2.2.9 Alloy Design](#229-alloy-design)
+  * [2.2.1 Healthcare & Bioinformatics](#221-healthcare--bioinformatics)
+  * [2.2.2 Anomaly Detection](#222-anomaly-detection)
+  * [2.2.3 Agent & RAG](#223-agent--rag)
+  * [2.2.4 Recommendation](#224-recommendation)
+  * [2.2.5 Federated & Cross-Domain](#225-federated--cross-domain)
+  * [2.2.6 Transportation](#226-transportation)
+  * [2.2.7 NLP & LLM](#227-nlp--llm)
+  * [2.2.8 Databases & Tabular](#228-databases--tabular)
+  * [2.2.9 Alloy Design](#229-alloy-design)
 
 </details>
 
-* [⚖️ Graph Benchmarks](#%EF%B8%8F-graph-benchmarks)
-    * [3.1 Research](#31-research)
-        * [3.1.1 Self-supervised](#311-self-supervised)
-        * [3.1.2 Alignment](#312-alignment)
-        * [3.1.3 Multimodal](#313-multimodal)
-        * [3.1.4 LLM](#314-llm)
-        * [3.1.5 Graph Foundation Model & Prompt](#315-graph-foundation-model--prompt)
-        * [3.1.6 Temporal, Dynamic & Continual](#316-temporal-dynamic--continual)
-        * [3.1.7 Active Learning](#317-active-learning)
-        * [3.1.8 OOD](#318-ood)
-        * [3.1.9 Fairness](#319-fairness)
-        * [3.1.10 Unlearning](#3110-unlearning)
-        * [3.1.11 Spiking GNN](#3111-spiking-gnn)
-        * [3.1.12 Graph Transformer](#3112-graph-transformer)
-        * [3.1.13 Graph Pooling](#3113-graph-pooling)
-        * [3.1.14 Robustness](#3114-robustness)
-        * [3.1.15 Reduction](#3115-reduction)
-        * [3.1.16 Theory & Analytics](#3116-theory--analytics)
-        * [3.1.17 Complex Network](#3117-complex-network)
-    * [3.2 Application](#32-application)
-        * [3.2.1 Health & Biomedical](#321-health--biomedical)
-        * [3.2 Federated Learning](#32-federated-learning)
-        * [3.2 Databases & Datasets](#32-databases--datasets)
-        * [3.2 Materials](#32-materials)
-        * [3.2 Coding](#32-coding)
+<details open>
+
+<summary><b>⚖️ Graph Benchmarks</b></summary>
+
+* [3.1 Research](#31-research)
+  * [3.1.1 Self-supervised](#311-self-supervised)
+  * [3.1.2 Alignment](#312-alignment)
+  * [3.1.3 Multimodal](#313-multimodal)
+  * [3.1.4 LLM](#314-llm)
+  * [3.1.5 Graph Foundation Model & Prompt](#315-graph-foundation-model--prompt)
+  * [3.1.6 Temporal, Dynamic & Continual](#316-temporal-dynamic--continual)
+  * [3.1.7 Active Learning](#317-active-learning)
+  * [3.1.8 OOD](#318-ood)
+  * [3.1.9 Fairness](#319-fairness)
+  * [3.1.10 Unlearning](#3110-unlearning)
+  * [3.1.11 Spiking GNN](#3111-spiking-gnn)
+  * [3.1.12 Graph Transformer](#3112-graph-transformer)
+  * [3.1.13 Graph Pooling](#3113-graph-pooling)
+  * [3.1.14 Robustness](#3114-robustness)
+  * [3.1.15 Reduction](#3115-reduction)
+  * [3.1.16 Theory & Analytics](#3116-theory--analytics)
+  * [3.1.17 Complex Network](#3117-complex-network)
+* [3.2 Application](#32-application)
+  * [3.2.1 Health & Biomedical](#321-health--biomedical)
+  * [3.2 Federated Learning](#32-federated-learning)
+  * [3.2 Databases & Datasets](#32-databases--datasets)
+  * [3.2 Materials](#32-materials)
+  * [3.2 Coding](#32-coding)
+
+</details>
 
 ## 📂 Graph Datasets
 

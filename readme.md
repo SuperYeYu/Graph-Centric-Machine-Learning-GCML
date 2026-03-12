@@ -17,6 +17,7 @@ This repository is structured around three core components:
 
 <details open>
 
+
 <summary><b>📂 Graph Datasets</b></summary>
 
 * [1.1 Classification explanation](#11-classification-explanation)
@@ -25,6 +26,7 @@ This repository is structured around three core components:
 </details>
 
 <details open>
+
 
 <summary><b>📖 Graph Surveys & Reviews</b></summary>
 
@@ -56,6 +58,7 @@ This repository is structured around three core components:
 
 <details open>
 
+
 <summary><b>⚖️ Graph Benchmarks</b></summary>
 
 * [3.1 Research](#31-research)
@@ -78,10 +81,11 @@ This repository is structured around three core components:
   * [3.1.17 Complex Network](#3117-complex-network)
 * [3.2 Application](#32-application)
   * [3.2.1 Health & Biomedical](#321-health--biomedical)
-  * [3.2 Federated Learning](#32-federated-learning)
-  * [3.2 Databases & Datasets](#32-databases--datasets)
-  * [3.2 Materials](#32-materials)
-  * [3.2 Coding](#32-coding)
+  * [3.2.2 Federated Learning](#322-federated-learning)
+  * [3.2.3 Databases & Datasets](#323-databases--datasets)
+  * [3.2.4 Materials](#324-materials)
+  * [3.2.5 Coding](#325-coding)
+  * [3.2.6 Finite Element Analysis ](#326-finite-element-analysis )
 
 </details>
 
@@ -281,7 +285,15 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 - **OpenMAG: A Comprehensive Benchmark for Multimodal-Attributed Graph** [Paper Link](https://arxiv.org/pdf/2602.05576)
 
-  🎯NC, LP, NG  🌐E-commerce  📊Multimodal (Text, Image),   🧩Bipartite Graph, Homogeneous Graph
+  🎯NC, LP, NG  🌐E-commerce  📊Multimodal (Text, Image)  🧩Bipartite Graph, Homogeneous Graph
+
+- **The Temporal Graph of Bitcoin Transactions** [Paper Link](https://arxiv.org/pdf/2510.20028)
+
+  🎯XXX  🌐XXXX  📊XXX   🧩XXX
+
+- **Integrating Sequential and Relational Modeling for User Events: Datasets and Prediction Tasks** [Paper Link](https://arxiv.org/pdf/2510.11903)
+
+  🎯XXX  🌐XXXX  📊XXX   🧩XXX
 
 
 
@@ -368,6 +380,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graph ODEs and Beyond: A Comprehensive Survey on Integrating Differential Equations with Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2503.23167)
 - **Efficient Algorithms for Personalized PageRank Computation: A Survey** [Paper Link](https://arxiv.org/pdf/2403.05198)
 - **Graph Learning: A Survey** [Paper Link](https://arxiv.org/pdf/2507.05636)
+- **Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey** [Paper Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf)
 - **Survey on Generalization Theory for Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2503.15650?)
 
 ### 2.2 Application
@@ -380,10 +393,12 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graph Neural Networks in Modern AI-aided Drug Discovery** [Paper Link](https://arxiv.org/pdf/2506.06915?)
 - **Graph Neural Networks in Multi-Omics Cancer Research: A Structured Survey** [Paper Link](https://arxiv.org/pdf/2506.17234)
 - **Graph Neural Networks for Source Detection: A Review and Benchmark Study** [Paper Link](https://arxiv.org/pdf/2512.20657)
-- **Interpretable graph-based models on multimodal biomedical data integration: A technical review and benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
+- **Interpretable Graph-based Models on Multimodal Biomedical Data Integration: A Technical Review and Benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
 - **Medical Applications of Graph Convolutional Networks Using Electronic Health Records: A Survey** [Paper Link](https://arxiv.org/pdf/2502.09781)
 - **Recent Developments in GNNs for Drug Discovery** [Paper Link](https://arxiv.org/pdf/2506.01302)
 - **Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2412.05312?)
+- **Multimodal Graph Neural Networks in Healthcare: A Review of Fusion Strategies across Biomedical Domains** [Paper Link](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2025.1716706/full)
+- **Causal Graph Neural Networks for Healthcare** [Paper Link](https://arxiv.org/pdf/2511.02531)
 
 #### 2.2.2 Anomaly Detection
 
@@ -403,6 +418,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graphs Meet AI Agents: Taxonomy, Progress, and Future Opportunities** [Paper Link](https://arxiv.org/pdf/2506.18019)
 - **Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings** [Paper Link](https://arxiv.org/pdf/2511.10501v3)
 - **Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions** [Paper Link](https://arxiv.org/pdf/2404.04898)
+- **Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects** [Paper Link](https://arxiv.org/pdf/2507.21407)
 
 #### 2.2.4 Recommendation
 
@@ -434,6 +450,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Dynamic Text-Attributed Graphs and Learning Models for Community Evolution: A Survey of Recent Advances** [Paper Link](https://www.publications.scrs.in/uploads/final_menuscript/822ab703ff97f28905558d3502c7974b.pdf) 
 - **Graph4LLM:A Systematic Survey of Graph-Enhanced Large Language Models** [Paper Link](http://shichuan.org/doc/215.pdf)
 - **Graphs for LLMs: A Survey of Graph-Assisted Large Language Models** [Paper Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/308271/preprint_pdf/8467d8fa2a52e780399614ed3a356245.pdf)
+- **Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects** [Paper Link](https://arxiv.org/pdf/2507.21407)
 
 #### 2.2.8 Databases & Tabular
 
@@ -484,6 +501,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **GLEN-Bench: A Graph-Language based Benchmark for Nutritional Health** [Paper Link](https://arxiv.org/pdf/2601.18106)
 - **ZOGRASCOPE: A New Benchmark for Semantic Parsing over Property Graphs** [Paper Link](https://arxiv.org/pdf/2503.05268)
 - **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
+- **Rethinking and Benchmarking Large Language Models for Graph Reasoning** [Paper Link](https://arxiv.org/pdf/2509.24260)
 
 #### 3.1.5 Graph Foundation Model & Prompt
 
@@ -546,6 +564,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **GC-Bench: An Open and Unified Benchmark for Graph Condensation** [Paper Link](https://arxiv.org/pdf/2407.00615)
 - **GC4NC: A Benchmark Framework for Graph Condensation on Node Classification with New Insights** [Paper Link](https://arxiv.org/pdf/2406.16715?)
 - **GCondenser: Benchmarking Graph Condensation** [Paper Link](https://arxiv.org/pdf/2405.14246)
+- **Pruning and Quantization Impact on Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2510.22058)
 
 #### 3.1.16 Theory & Analytics 
 
@@ -555,6 +574,8 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
 - **Benchmarking Graph Neural Networks in Solving Hard Constraint Satisfaction Problems** [Paper Link](https://arxiv.org/pdf/2602.18419)
 - **BEACON: A Benchmark for Efficient and Accurate Counting of Subgraphs** [Paper Link](https://arxiv.org/pdf/2504.10948)
+- **Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study** [Paper Link](https://arxiv.org/pdf/2510.18370)
+- **Rethinking and Benchmarking Large Language Models for Graph Reasoning** [Paper Link](https://arxiv.org/pdf/2509.24260)
 
 #### 3.1.17 Complex Network
 
@@ -575,24 +596,28 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Opbench: A Graph Benchmark to Combat the Opioid Crisis** [Paper Link](https://arxiv.org/pdf/2602.14602)
 - **GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics** [Paper Link](https://arxiv.org/pdf/2505.10711)
 
-#### 3.2 Federated Learning
+#### 3.2.2 Federated Learning
 
 - **OpenFGL: A Comprehensive Benchmark for Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2408.16288?)
 - **MM-OpenFGL: A Comprehensive Benchmark for Multimodal Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2601.22416)
 
-#### 3.2 Databases & Datasets
+#### 3.2.3 Databases & Datasets
 
 - **GraphBench: Next-Generation Graph Learning Benchmarking** [Paper Link](https://arxiv.org/pdf/2512.04475)
 - **A Benchmark Dataset for Graph Regression with Homogeneous and Multi-Relational Variants** [Paper Link](https://arxiv.org/pdf/2505.23875?)
 - **RDB2G-Bench: A Comprehensive Benchmark for Automatic Graph Modeling of Relational Databases** [Paper Link](https://arxiv.org/pdf/2506.01360)
 
-#### 3.2 Materials
+#### 3.2.4 Materials
 
 - **CITE: A Comprehensive Benchmark for Heterogeneous Text-Attributed Graphs on Catalytic Materials** [Paper Link](https://arxiv.org/pdf/2508.15392?)
 
-#### 3.2 Coding
+#### 3.2.5 Coding
 
 - **GREPO: A Benchmark for Graph Neural Networks on Repository-Level Bug Localization** [Paper Link](https://arxiv.org/pdf/2602.13921)
+
+#### 3.2.6 Finite Element Analysis
+
+- **A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis** [Paper Link](https://arxiv.org/pdf/2510.15750)
 
 
 
@@ -626,5 +651,6 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
     </td>
   </tr>
 </table>
+
 
 **📌 Important Note:** As this initiative commenced in mid-2024, our curation intentionally excludes older literature to prioritize recent, state-of-the-art advancements. Additionally, this repository features dedicated sections for **💡 Graph Insights** and **📈 Graph Evaluation Metrics**, which will be subject to continuous updates in future releases.

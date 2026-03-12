@@ -618,7 +618,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 #### 3.2.6 Finite Element Analysis
 
 - **A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis** [Paper Link](https://arxiv.org/pdf/2510.15750)
-
+### 3.2.7
 
 
 

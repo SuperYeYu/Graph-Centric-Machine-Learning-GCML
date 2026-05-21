@@ -689,7 +689,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 
 
-We welcome contributions to enhance the breadth and depth of this repository. If you have a paper related to data valuation that you believe should be included, please feel free to submit a pull request. Together, we can build a valuable resource for the data valuation community.
+We welcome contributions to enhance the breadth and depth of this repository. If you have a paper related to GNN survey or benchmark that you believe should be included, please feel free to submit a pull request. Together, we can build a valuable resource for the GCML community.
 
 ```
 | conference/journal'year | paper_name | [Paper Link](paper_link) |

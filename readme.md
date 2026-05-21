@@ -16,7 +16,7 @@ This repository is structured around three core components:
 - **📖 Graph Surveys & Reviews:** Offering a systematic overview of the graph machine learning domain to comprehensively explore its foundational concepts and emerging developmental trends.
 - **⚖️ Graph Benchmarks:** Facilitating rapid onboarding into specific sub-fields and enabling rigorous comparative analysis of various models.
 
-#### Latest Updates
+### Latest Updates
 
 [21/05/2026] Add **6** surveys and **8** benchmarks
 

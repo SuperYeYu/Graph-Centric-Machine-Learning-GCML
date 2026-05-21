@@ -7,11 +7,18 @@
 
 ## 🌟 Overview
 
+![Awesome](https://img.shields.io/badge/Awesome-GNN%20Survey-2ea44f)
+![Awesome](https://img.shields.io/badge/Awesome-GNN%20Benchmark-4C6FFF)
+
 This repository is structured around three core components:
 
 - **📂 Graph Datasets:** Providing diverse graph datasets and the extensive array of downstream graph tasks.
 - **📖 Graph Surveys & Reviews:** Offering a systematic overview of the graph machine learning domain to comprehensively explore its foundational concepts and emerging developmental trends.
 - **⚖️ Graph Benchmarks:** Facilitating rapid onboarding into specific sub-fields and enabling rigorous comparative analysis of various models.
+
+#### Latest Updates
+
+[21/05/2026] Add **6** surveys and **8** benchmarks
 
 ### Contents
 
@@ -86,6 +93,7 @@ This repository is structured around three core components:
   * [3.2.4 Materials](#324-materials)
   * [3.2.5 Coding](#325-coding)
   * [3.2.6 Finite Element Analysis ](#326-finite-element-analysis )
+  * [3.2.7 Anomaly Detection](#327-anomaly-detection )
 
 </details>
 
@@ -306,6 +314,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **A Survey on Self-Supervised Graph Foundation Models: Knowledge-Based Perspective** [Paper Link](https://arxiv.org/pdf/2403.16137)
 - **Towards Graph Contrastive Learning: A Survey and Beyond** [Paper Link](https://arxiv.org/pdf/2405.11868?)
 - **Self-Supervised Learning for Graph-Structured Data in Healthcare Applications: A Comprehensive Review** [Paper Link](https://arxiv.org/pdf/2412.05312?)
+- **Graph Contrastive Learning: A Comprehensive Review of Methodologies, Applications, and Future Directions** [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11428183)
 
 #### 2.1.2 Graph Foundation Model & Prompting
 
@@ -374,6 +383,9 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **A Topical Review of Graph Embedding in Graph Neural Networks** [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11299063)
 - **Graph Neural Network based on Graph Kernel: A Survey** [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320324010586) 
 - **Pattern-Based Graph Classification: Comparison of Quality Measures and Importance of Preprocessing** [Paper Link](https://arxiv.org/pdf/2507.00039)
+- **A Survey on GNN‐Based Link Prediction: Techniques, Applications, and Challenges** [Paper Link](https://www.semanticscholar.org/paper/A-Survey-on-GNN-%E2%80%90Based-Link-Prediction%3A-Techniques%2C-Sun-Song/eb9613a104e83023fed72c54320099b4f65109d6)
+- **Graph Rewiring in GNNs to Mitigate Over-Squashing and Over-Smoothing: A Survey** [Paper Link](https://arxiv.org/pdf/2605.00951)
+- **Representing Higher-Order Networks: A Survey of Graph-Based Frameworks** [Paper Link](https://arxiv.org/pdf/2605.12509)
 
 #### 2.1.12 Theory & Insight
 
@@ -382,6 +394,8 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graph Learning: A Survey** [Paper Link](https://arxiv.org/pdf/2507.05636)
 - **Information-Theoretic Foundations and Advances in Graph Machine Learning: A Comprehensive Survey** [Paper Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/300575/preprint_pdf/59dec1534ff3eef424492c2a68582ce4.pdf)
 - **Survey on Generalization Theory for Graph Neural Networks** [Paper Link](https://arxiv.org/pdf/2503.15650?)
+- **How attention is applied to graph neural networks: A comprehensive survey** [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S1574013726000742)
+- **Spectral Embeddings Leak Graph Topology: Theory, Benchmark, and Adaptive Reconstruction** [Paper Link](https://arxiv.org/pdf/2604.21094)
 
 ### 2.2 Application
 
@@ -419,12 +433,15 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graph Neural Networks, Deep Reinforcement Learning and Probabilistic Topic Modeling for Strategic Multiagent Settings** [Paper Link](https://arxiv.org/pdf/2511.10501v3)
 - **Graph Neural Network Meets Multi-Agent Reinforcement Learning: Fundamentals, Applications, and Future Directions** [Paper Link](https://arxiv.org/pdf/2404.04898)
 - **Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects** [Paper Link](https://arxiv.org/pdf/2507.21407)
+- **A Survey of Multi-Agent Deep Reinforcement Learning with Graph Neural Network-Based Communication** [Paper Link](https://arxiv.org/pdf/2604.25972)
+- **Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval** [Paper Link](https://arxiv.org/pdf/2604.15951)
 
 #### 2.2.4 Recommendation
 
 - **Graph Foundation Models for Recommendation: A Comprehensive Survey** [Paper Link](https://arxiv.org/pdf/2502.08346)
 - **Graph Neural Networks for Collaborative Filtering: A Survey on Ranking Prediction** [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11359174)
 - **Multi-Behavior Recommender Systems: A Survey** [Paper Link](https://arxiv.org/pdf/2503.06963?)
+- **A Review on Multi-Types Analysis for Graph Neural Networks-Based Recommendation Systems** [Paper Link](https://link.springer.com/article/10.1007/s44196-026-01198-y)
 
 #### 2.2.5 Federated & Cross-Domain
 
@@ -451,6 +468,8 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Graph4LLM:A Systematic Survey of Graph-Enhanced Large Language Models** [Paper Link](http://shichuan.org/doc/215.pdf)
 - **Graphs for LLMs: A Survey of Graph-Assisted Large Language Models** [Paper Link](https://d197for5662m48.cloudfront.net/documents/publicationstatus/308271/preprint_pdf/8467d8fa2a52e780399614ed3a356245.pdf)
 - **Graph-Augmented Large Language Model Agents: Current Progress and Future Prospects** [Paper Link](https://arxiv.org/pdf/2507.21407)
+- **A Survey of Unifying Large Language Models with Graph Learning: Concepts, Methods, and Recent Advancements for Text-attributed Graph** [Paper Link](https://www.techrxiv.org/doi/pdf/10.36227/techrxiv.177272839.92930143/v1?onload=true)
+- **Integrating Graphs, Large Language Models, and Agents: Reasoning and Retrieval** [Paper Link](https://arxiv.org/pdf/2604.15951)
 
 #### 2.2.8 Databases & Tabular
 
@@ -490,6 +509,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
 - **Interpretable Graph-based Models on Multimodal Biomedical Data Integration: A Technical Review and Benchmarking** [Paper Link](https://arxiv.org/pdf/2505.01696)
 - **Benchmarking Graph Neural Networks for Document Layout Analysis in Public Affairs** [Paper Link](https://arxiv.org/pdf/2505.14699)
+- **GraphVLM: Benchmarking Vision Language Models for Multimodal Graph Learning** [Paper Link](https://arxiv.org/pdf/2603.13370)
 
 #### 3.1.4 LLM
 
@@ -502,6 +522,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **ZOGRASCOPE: A New Benchmark for Semantic Parsing over Property Graphs** [Paper Link](https://arxiv.org/pdf/2503.05268)
 - **Seeing Graphs Like Humans: Benchmarking Computational Measures and MLLMs for Similarity Assessment** [Paper Link](https://arxiv.org/pdf/2602.22416)
 - **Rethinking and Benchmarking Large Language Models for Graph Reasoning** [Paper Link](https://arxiv.org/pdf/2509.24260)
+- **GraphInstruct: A Progressive Benchmark for Diagnosing Capability Gaps in LLM Graph Generation** [Paper Link](https://arxiv.org/pdf/2605.09997)
 
 #### 3.1.5 Graph Foundation Model & Prompt
 
@@ -519,6 +540,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **Benchmarking Graph Representations and Graph Neural Networks for Multivariate Time Series Classification** [Paper Link](https://arxiv.org/pdf/2501.08305?)
 - **GDGB: A Benchmark for Genrative Dynamic Text-Attributed Graph Learning** [Paper Link](https://openreview.net/pdf?id=5UFUHUC5qP)
 - **GRAIL: A Benchmark for Graph Active Learning in Dynamic Sensing Environments** [Paper Link](https://arxiv.org/pdf/2506.10120)
+- **PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs** [Paper Link](https://arxiv.org/pdf/2605.10529)
 
 #### 3.1.7 Active Learning
 
@@ -576,6 +598,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **BEACON: A Benchmark for Efficient and Accurate Counting of Subgraphs** [Paper Link](https://arxiv.org/pdf/2504.10948)
 - **Training Diverse Graph Experts for Ensembles: A Systematic Empirical Study** [Paper Link](https://arxiv.org/pdf/2510.18370)
 - **Rethinking and Benchmarking Large Language Models for Graph Reasoning** [Paper Link](https://arxiv.org/pdf/2509.24260)
+- **GRAPHNETZ: Statistical Benchmarking of Graph Neural Networks with Paired Tests and Rank Aggregation** [Paper Link](https://arxiv.org/pdf/2605.09099)
 
 #### 3.1.17 Complex Network
 
@@ -584,6 +607,7 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs** [Paper Link](https://arxiv.org/pdf/2503.04822)
 - **CITE: A Comprehensive Benchmark for Heterogeneous Text-Attributed Graphs on Catalytic Materials** [Paper Link](https://arxiv.org/pdf/2508.15392?)
 - **When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark** [Paper Link](https://arxiv.org/pdf/2407.10916)
+- **THGB: A Comprehensive Benchmark for Text-attributed Heterogeneous Graphs** [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/40133)
 
 ### 3.2 Application
 
@@ -595,11 +619,14 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 - **B-XAIC Dataset: Benchmarking Explainable AI for Graph Neural Networks Using Chemical Data** [Paper Link](https://arxiv.org/pdf/2505.22252)
 - **Opbench: A Graph Benchmark to Combat the Opioid Crisis** [Paper Link](https://arxiv.org/pdf/2602.14602)
 - **GNN-Suite: a Graph Neural Network Benchmarking Framework for Biomedical Informatics** [Paper Link](https://arxiv.org/pdf/2505.10711)
+- **OgBench: A Framework for Evaluating Graph Neural Networks on Omics Data** [Paper Link](https://arxiv.org/pdf/2605.15511)
+- **PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs** [Paper Link](https://arxiv.org/pdf/2605.10529)
 
 #### 3.2.2 Federated Learning
 
 - **OpenFGL: A Comprehensive Benchmark for Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2408.16288?)
 - **MM-OpenFGL: A Comprehensive Benchmark for Multimodal Federated Graph Learning** [Paper Link](https://arxiv.org/pdf/2601.22416)
+- **PrimeKG-CL: A Continual Graph Learning Benchmark on Evolving Biomedical Knowledge Graphs** [Paper Link](https://arxiv.org/pdf/2604.21094)
 
 #### 3.2.3 Databases & Datasets
 
@@ -618,7 +645,12 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 #### 3.2.6 Finite Element Analysis
 
 - **A Comprehensive Evaluation of Graph Neural Networks and Physics Informed Learning for Surrogate Modelling of Finite Element Analysis** [Paper Link](https://arxiv.org/pdf/2510.15750)
-### 3.2.7
+
+#### 3.2.7 Anomaly Detection
+
+- **GAD in the Wild: Benchmarking Graph Anomaly Detection under Realistic Deployment Challenges** [Paper Link](https://arxiv.org/pdf/2605.07133)
+- **TransXion: A High-Fidelity Graph Benchmark for Realistic Anti-Money Laundering** [Paper Link](https://arxiv.org/pdf/2604.17420)
+
 
 
 
@@ -654,3 +686,12 @@ Heterogeneous Graph, Homogeneous Graph, Multiplex Graph, Homophily Graph, Hetero
 
 
 **📌 Important Note:** As this initiative commenced in mid-2024, our curation intentionally excludes older literature to prioritize recent, state-of-the-art advancements. Additionally, this repository features dedicated sections for **💡 Graph Insights** and **📈 Graph Evaluation Metrics**, which will be subject to continuous updates in future releases.
+
+
+
+We welcome contributions to enhance the breadth and depth of this repository. If you have a paper related to data valuation that you believe should be included, please feel free to submit a pull request. Together, we can build a valuable resource for the data valuation community.
+
+```
+| conference/journal'year | paper_name | [Paper Link](paper_link) |
+```
+
